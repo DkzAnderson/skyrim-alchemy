@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+
+
+$color-fondo-primario: radial-gradient(circle, #a67e21 0%, #7d7252 85%, #979975 100%) ;
+$color-fondo-secundario: linear-gradient(240deg, #000000 4%, #b9b9b9 47%, #747474 69%);
